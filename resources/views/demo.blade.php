@@ -13,18 +13,18 @@
 		</div>
 		<div class="row justify-content-center">
 			<table>
-				<tr><td><a href="">Kindle The Fire</a></td>
+				<tr><td><a href="/media/kindle_the_fire.mp3">Kindle The Fire</a></td>
 					<td><audio controls><source src="/media/kindle_the_fire.mp3" type="audio/mpeg"></audio></td></tr>
-				<tr><td><a href="">The Haunting</td>
+				<tr><td><a href="/media/the_haunting.mp3">The Haunting</td>
 					<td><audio controls><source src="/media/the_haunting.mp3" type="audio/mpeg"></audio></td></tr>
 				</tr>
-				<tr><td><a href="">The Lord He Giveth</td>
+				<tr><td><a href="/media/lord_he_giveth.mp3">The Lord He Giveth</td>
 					<td><audio controls><source src="/media/lord_he_giveth.mp3" type="audio/mpeg"></audio></td></tr>
 				</tr>
-				<tr><td><a href="">Stand In Your Light</td>
+				<tr><td><a href="/media/stand_in_your_light.mp3">Stand In Your Light</td>
 					<td><audio controls><source src="/media/stand_in_your_light.mp3" type="audio/mpeg"></audio></td></tr>
 				</tr>
-				<tr><td><a href="">Days Of Summer</td>
+				<tr><td><a href="/media/days_of_summer.mp3">Days Of Summer</td>
 					<td><audio controls><source src="/media/days_of_summer.mp3" type="audio/mpeg"></audio></td></tr>
 				</tr>
 					

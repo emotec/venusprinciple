@@ -15,8 +15,11 @@
 			<h1>Contacts</h1>>
 		</div>
 		<div class="row justify-content-center">
-			Management: Ula Gehret - <a href="mailto:ula@clandestinemusic.com">ula@clandestinemusic.com</a> <br/>
-			Booking:  Zoltan Jakab - <a href="mailto:zoltan@doomstarbookings.com ">zoltan@doomstarbookings.com </a>
+			<table>
+				<tr><td>Management: Ula Gehret - <a href="mailto:ula@clandestinemusic.com">ula@clandestinemusic.com</a> </td></tr>
+				<tr><td>Booking:  Zoltan Jakab - <a href="mailto:zoltan@doomstarbookings.com ">zoltan@doomstarbookings.com </a></td></tr>
+			</table>
+			
 		</div>
 </div>
 @endsection

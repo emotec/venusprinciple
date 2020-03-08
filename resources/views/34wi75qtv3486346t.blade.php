@@ -1,4 +1,4 @@
-@extends('layouts.frontend')
+@extends('layouts.frontendnofollow')
 @section('content')
 <div class="container-fluid">
 		<div class="row justify-content-center">

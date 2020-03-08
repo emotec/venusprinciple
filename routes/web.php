@@ -20,3 +20,8 @@ Route::get('/', function () {
 Route::get('/demo', function () {
     return view('demo');
 });
+
+Route::get('/34wi75qtv3486346t', function () {
+    return view('34wi75qtv3486346t');
+});
+

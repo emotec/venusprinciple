@@ -20,23 +20,13 @@ Dark melodic heavy rock featuring the beautiful harmony vocals of Daniel and Dai
 			<p>All demos are home recordings no live drums.</p>
 		</div>
 		
-		<div class="row justify-content-center">
-			<table>
-				<tr><td><a href="/media/kindle_the_fire.mp3">Kindle The Fire</a></td>
-					<td><audio controls><source src="/media/kindle_the_fire.mp3" type="audio/mpeg"></audio></td></tr>
-				<tr><td><a href="/media/the_haunting.mp3">The Haunting</td>
-					<td><audio controls><source src="/media/the_haunting.mp3" type="audio/mpeg"></audio></td></tr>
-				</tr>
-				<tr><td><a href="/media/lord_he_giveth.mp3">The Lord He Giveth</td>
-					<td><audio controls><source src="/media/lord_he_giveth.mp3" type="audio/mpeg"></audio></td></tr>
-				</tr>
-				<tr><td><a href="/media/days_of_summer.mp3">Days Of Summer</td>
-					<td><audio controls><source src="/media/days_of_summer.mp3" type="audio/mpeg"></audio></td></tr>
-				</tr>
-					
 
-			</table>
+
+		<div class="row justify-content-center">
+			<div class="col-sm-4">
+<iframe width="100%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1010475268%3Fsecret_token%3Ds-pVrOx&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe></div>
 		</div>
+
 		<div class="row justify-content-center">
 			<h2>Contacts</h2>
 		</div>

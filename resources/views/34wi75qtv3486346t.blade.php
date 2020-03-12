@@ -2,7 +2,7 @@
 @section('content')
 <div class="container-fluid">
 		<div class="row justify-content-center">
-			<img style="height:100px" src="{{asset('images/vptitle.jpg')}}" />
+			<img  src="{{asset('images/vptitle1.jpg')}}" />
 		</div>
 		<div class="row justify-content-center">
 			<img src="{{asset('images/vp4.jpg')}}" />

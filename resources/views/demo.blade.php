@@ -14,7 +14,7 @@
 			<p>Please contact <a href="mailto:ula@clandestinemusic.com">ula@clandestinemusic.com</a> for a link to the demos.</p>
 		</div>
 		<div class="row justify-content-center">
-			<h1>Contacts</h1>>
+			<h1>Contacts</h1>
 		</div>
 		<div class="row justify-content-center">
 			<table class="">

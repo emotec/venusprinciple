@@ -11,3 +11,9 @@ p div table tr td {
     color: #9f9f9f;
 }
 
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+

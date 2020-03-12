@@ -2,10 +2,10 @@
 @section('content')
 <div class="container-fluid">
 		<div class="row justify-content-center">
-			<img  src="{{asset('images/vptitle1.jpg')}}" />
+			<img class="" src="{{asset('images/vptitle1.jpg')}}" />
 		</div>
 		<div class="row justify-content-center">
-			<img src="{{asset('images/vp4.jpg')}}" />
+			<img  class="" src="{{asset('images/vp4.jpg')}}" />
 		</div>
 		<div class="row justify-content-center">
 			<div class="col-sm-2"></div>

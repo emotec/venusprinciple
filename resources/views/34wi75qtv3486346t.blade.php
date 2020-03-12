@@ -2,14 +2,18 @@
 @section('content')
 <div class="container-fluid">
 		<div class="row justify-content-center">
-			<img style="height:300px" src="{{asset('images/venus.jpg')}}" />
+			<img style="height:100px" src="{{asset('images/vptitle.jpg')}}" />
 		</div>
 		<div class="row justify-content-center">
-			<h1>Venus Principle - Demo recordings</h1>
+			<img src="{{asset('images/vp4.jpg')}}" />
 		</div>
 		<div class="row justify-content-center">
-			<p>All demos are home recordings no live drums</p>
+			<h2>Demo recordings</h2>
 		</div>
+		<div class="row justify-content-center">
+			<p>All demos are home recordings no live drums.</p>
+		</div>
+		
 		<div class="row justify-content-center">
 			<table>
 				<tr><td><a href="/media/kindle_the_fire.mp3">Kindle The Fire</a></td>
@@ -31,7 +35,7 @@
 			</table>
 		</div>
 		<div class="row justify-content-center">
-			<h1>Contacts</h1>>
+			<h2>Contacts</h2>
 		</div>
 		<div class="row justify-content-center">
 			<table class="">

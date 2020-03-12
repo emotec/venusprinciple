@@ -2,7 +2,7 @@
 @section('content')
 <div class="container-fluid">
 		<div class="row justify-content-center">
-			<img style="height:300px" src="{{asset('images/venus.jpg')}}" />
+			<img style="height:100px" src="{{asset('images/vptitle.jpg')}}" />
 		</div>
 		<div class="row justify-content-center">
 			<h1>Venus Principle - Demo recordings</h1>

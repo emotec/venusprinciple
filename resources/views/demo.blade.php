@@ -4,8 +4,11 @@
 		<div class="row justify-content-center">
 			<img style="height:100px" src="{{asset('images/vptitle.jpg')}}" />
 		</div>
+				<div class="row justify-content-center">
+			<img src="{{asset('images/vp4.jpg')}}" />
+		</div>
 		<div class="row justify-content-center">
-			<h1>Venus Principle - Demo recordings</h1>
+			<h1>Demo recordings</h1>
 		</div>
 		<div class="row justify-content-center">
 			<p>Please contact <a href="mailto:ula@clandestinemusic.com">ula@clandestinemusic.com</a> for a link to the demos.</p>

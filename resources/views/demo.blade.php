@@ -1,13 +1,23 @@
 @extends('layouts.frontend')
 @section('content')
 <div class="container-fluid">
-		<div class="row justify-content-center">
-			<img   class="img-fluid" src="{{asset('images/vptitle1.jpg')}}" />
+		<div class="row">
+			<div class="col-sm-2"></div>
+			<div class="col-sm-8">
+				<img class="img-fluid" src="{{asset('images/vptitle1.jpg')}}" />
+			</div>
+			<div class="col-sm-2"></div>
 		</div>
-				<div class="row justify-content-center">
-			<img  class="img-fluid" src="{{asset('images/vp4.jpg')}}" />
+
+		<div class="row">
+			<div class="col-sm-1"></div>
+			<div class="col-sm-10">
+				<img  class="img-fluid" src="{{asset('images/vp4.jpg')}}" />
+			</div>
+			<div class="col-sm-1"></div>
 		</div>
-		<div class="row justify-content-center">
+
+		<div class="row">
 			<div class="col-sm-2"></div>
 			<div class="col-sm-8"><p>Venus Principle is a brand new project based around the talents of Jonas Stålhammar, Daniel Änghede, Daisy Chapman, Mark Furnevall, Ben Wilsker and Tom Greenway. 
 Dark melodic heavy rock featuring the beautiful harmony vocals of Daniel and Daisy. </p></div>

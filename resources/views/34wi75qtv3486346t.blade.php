@@ -5,7 +5,7 @@
 		<div class="row">
 			<div class="col-sm-2"></div>
 			<div class="col-sm-8">
-				<img class="img-fluid" src="{{asset('images/vptitle1.jpg')}}" />
+				<img class="img-fluid" src="{{asset('images/vptitle3.jpg')}}" />
 			</div>
 			<div class="col-sm-2"></div>
 		</div>

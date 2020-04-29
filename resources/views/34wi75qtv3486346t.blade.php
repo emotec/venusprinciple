@@ -13,7 +13,7 @@
 		<div class="row">
 			<div class="col-sm-1"></div>
 			<div class="col-sm-10">
-				<img  class="img-fluid" src="{{asset('images/vp4.jpg')}}" />
+				<img  class="img-fluid" src="{{asset('images/vp5.jpg')}}" />
 			</div>
 			<div class="col-sm-1"></div>
 		</div>

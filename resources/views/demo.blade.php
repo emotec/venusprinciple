@@ -19,7 +19,7 @@
 
 		<div class="row">
 			<div class="col-sm-2"></div>
-			<div class="col-sm-8"><p>Venus Principle is a brand new project based around the talents of Jonas Stålhammar, Daniel Änghede, Daisy Chapman, Mark Furnevall and Tom Greenway. 
+			<div class="col-sm-8"><p>Venus Principle is a brand new project based around the talents of Jonas Stålhammar, Daniel Änghede, Daisy Chapman, Mark Furnevall, Tom Greenway and Ben Wilsker. 
 Dark melodic heavy rock featuring the beautiful harmony vocals of Daniel and Daisy. </p></div>
 			<div class="col-sm-2"></div>
 			
